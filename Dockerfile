@@ -1,5 +1,4 @@
-FROM jjanzic/docker-python3-opencv
-
+FROM  paddlepaddle/paddle:2.4.2
 
 WORKDIR /app
 
